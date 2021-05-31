@@ -66,10 +66,6 @@ public class ImageUI implements ActionListener{
         dir = new File(directory.getText());
         images = new ArrayList<>();
     }
-    /*
-    //TODO VIEW PROJECT REQUIREMENTS AND CREATE A README FILE
-    //TODO AS OF 5/26 PROJECT SEEMS TO WORK AS INTENDED
-     */
 
     public void actionPerformed(ActionEvent ae) {
         //OPEN FOLDER FUNCTION
